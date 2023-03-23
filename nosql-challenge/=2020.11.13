@@ -1,0 +1,4 @@
+Collecting regex
+  Downloading regex-2022.10.31-cp37-cp37m-win_amd64.whl (268 kB)
+Installing collected packages: regex
+Successfully installed regex-2022.10.31
